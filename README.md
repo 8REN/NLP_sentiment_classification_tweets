@@ -72,13 +72,14 @@ maybe due to sample obtained relating to event(sxsw).
 stemmed and lemmatized tweets to compare, used lemmatized tweets for models
 
 ### create neural network in keras with tfidf vectors
-SMOTE 
-non SMOTE
+SMOTE balanced data
+non SMOTE data using weights 
 ### statistical methods
 bayes
 random forest
 knn
 ### word embeddings with word2vec, creating neural network to evaluate performance
+save word2vec model
 
 ### provide final model with best performance overall
 
